@@ -15,7 +15,7 @@ def readDataset(path):
 
     for f in folders:
         for file in os.listdir(''.join((path, '/', f))):
-            X.append(file)
+            X.append(''.join((path, '/', f, '/', file)))
             y.append(f)
 
     return np.array(X), np.array(y)
@@ -23,7 +23,7 @@ def readDataset(path):
 parser = argparse.ArgumentParser(description='Reads images from PATH and stores data as numpy arrays. PATH must contain folders \
     \'test\' and \'train\'. Inside these folders, data must be organized in subfolders that will name its content class.')
 
-parser.add_argument('-p', '--path', metavar='PATH', required='True', help='Path to read files from.')
+parser.add_argument('path', metavar='PATH', help='Path to read files from.')
 
 args = parser.parse_args()
 
