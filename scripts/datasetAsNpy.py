@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Cria dois conjuntos de arquivos npy: train e test. Cada um composto por seu correspondente X, contendo os caminhos para as imagens
 # a serem lidas e y com suas respectivas labels.
 
