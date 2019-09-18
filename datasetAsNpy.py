@@ -16,7 +16,7 @@ def readDataset(path):
     for f in folders:
         for file in os.listdir(''.join((path, '/', f))):
             X.append(''.join((path, '/', f, '/', file)))
-            y.append(f)
+            y.append(int(f))
 
     return np.array(X), np.array(y)
 
