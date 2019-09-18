@@ -76,3 +76,5 @@ for d in directories:
 
 		if count % 1000 == 0:
 			print('%d out of %d images resized' % (count, total))
+
+print('\nDone! All images were resized')
