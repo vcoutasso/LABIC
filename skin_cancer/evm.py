@@ -91,6 +91,7 @@ parser.add_argument('--evaluate-only', action='store_true',help='Evaluate existi
 parser.add_argument('--dont-stratify', action='store_true', help='Split data without stratification.')
 parser.add_argument('--lmnn-transform', action='store_true', help='Perform LMNN transform on features.')
 parser.add_argument('--k-folds', default=1, metavar='K', help='Number of K Folds.')
+parser.add_argument('--quickie', action='store_true', help='Perform quick tests with only a minor part of the dataset.')
 
 args = parser.parse_args()
 
@@ -102,6 +103,7 @@ TEST_SPLIT = args.test_split
 K = args.k_folds
 TRAIN = None
 STRATIFY = None
+QUICKIE = args.quickie
 
 if args.evaluate_only:
 	TRAIN = False
@@ -147,14 +149,15 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=TEST_SPLIT, 
 files_train, files_test, _, _ = train_test_split(files_index, y, test_size=TEST_SPLIT, stratify=STRATIFY)
 
 
-#X_train = X_train[:300]
-#y_train = y_train[:300]
-#
-#X_test = X_test[:100]
-#y_test = y_test[:100]
-#
-#files_train = files_train[:300]
-#files_test = files_test[:100]
+if QUICKIE:
+	X_train = X_train[:300]
+	y_train = y_train[:300]
+
+	X_test = X_test[:100]
+	y_test = y_test[:100]
+
+	files_train = files_train[:300]
+	files_test = files_test[:100]
 
 if LMNN_TRANSFORM:
 	print('transforming features..')
@@ -194,7 +197,7 @@ with open(os.path.join(PATH,'predictions.csv'), 'w') as preds:
 	for i, pred in enumerate(y_pred):
 		preds.write(str(filenames[files_test[i]]) + ',' + str(y_test[i]) + ',' + str(pred) + '\n')
 
-sns.heatmap(cf_matrix, annot=True, fmt='d', cmap=CMAP)
+sns.heatmap(cf_matrix, annot=True, fmt='d', cmap=CMAP, xticklabels=[*labels.keys()], yticklabels=[*labels.keys()])
 plt.ylabel('Ground Truth')
 plt.xlabel('Predictions')
 plt.title('Confusion Matrix')
@@ -204,7 +207,7 @@ plt.savefig(os.path.join(PATH,'confusion_matrix.png'))
 plt.clf()
 
 normalized_cm = cf_matrix.astype('float') / cf_matrix.sum(axis=1)[:, np.newaxis]
-sns.heatmap(normalized_cm, annot=True, fmt='.2f', cmap=CMAP)
+sns.heatmap(normalized_cm, annot=True, fmt='.2f', cmap=CMAP, xticklabels=[*labels.keys()], yticklabels=[*labels.keys()])
 plt.ylabel('Ground Truth')
 plt.xlabel('Predictions')
 plt.title('Normalized Confusion Matrix')
