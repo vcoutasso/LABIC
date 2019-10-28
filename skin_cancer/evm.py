@@ -9,6 +9,7 @@ from multiprocessing import Pool
 import scipy
 import csv
 import pickle
+import time
 
 from sklearn.model_selection import StratifiedKFold
 from sklearn.model_selection import train_test_split
@@ -72,6 +73,8 @@ def predict(evms, x_test, params):
 						predictions.append(0)
 
 		return predictions
+
+begin = time.clock()
 
 X = np.load('X.npy')
 y = np.load('y.npy')
@@ -182,18 +185,9 @@ cf_matrix = confusion_matrix(y_test, y_pred, labels=[*labels.values()])
 print(report)
 print(cf_matrix)
 
-with open(os.path.join(PATH,'results.txt'), 'w') as res:
+with open(os.path.join(PATH,'report.txt'), 'w') as res:
 	res.write('Classification Report\n\n')
 	res.write(report)
-
-with open(os.path.join(PATH,'info.txt'), 'w') as info:
-	info.write('Parameters\n')
-	info.write(parameters)
-	info.write('\nLMNN Transform: ' + str(LMNN_TRANSFORM))
-	info.write('Stratified: ' + ('True' if STRATIFY != None else 'False'))
-	info.write('Test split: %d', TEST_SPLIT)
-	info.write('K Fold: %d', K)
-
 
 with open(os.path.join(PATH,'predictions.csv'), 'w') as preds:
 	preds.write('filename,ground_truth,prediction\n')
@@ -215,3 +209,16 @@ plt.ylabel('Ground Truth')
 plt.xlabel('Predictions')
 plt.title('Normalized Confusion Matrix')
 plt.savefig(os.path.join(PATH,'normalized_confusion_matrix.png'))
+
+with open(os.path.join(PATH,'info.txt'), 'w') as info:
+	info.write('EVM Parameters\n')
+	info.write('Tail size: {}\n'.format(TAIL_SIZE))
+	info.write('Cover Threshold: {}\n'.format(COVER_THRESHOLD))
+	info.write('Classification Threshold: {}\n'.format(CLASSIFICATION_THRESHOLD))
+
+	info.write('\nLMNN Transform: {}\n'.format('True' if args.lmnn_transform else 'False'))
+	info.write('Stratified: {}\n'.format(('False' if args.dont_stratify else 'True')))
+	info.write('Test split: {}\n'.format(TEST_SPLIT))
+	info.write('K Fold: {}\n'.format(K))
+
+	info.write('\nTime taken: {:.2f} s\n'.format(time.clock() - begin))
