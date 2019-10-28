@@ -224,4 +224,4 @@ with open(os.path.join(PATH,'info.txt'), 'w') as info:
 	info.write('Test split: {}\n'.format(TEST_SPLIT))
 	info.write('K Fold: {}\n'.format(K))
 
-	info.write('\nTime taken: {:.2f} min\n'.format((time.clock() - begin)) / 60.0)
+	info.write('\nTime taken: {:.2f} min\n'.format(float(time.clock() - begin) / 60.0))
