@@ -1,0 +1,3704 @@
+
+
+{
+   "Resumo": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 6, de 2019, ressalvados os destaques. Sim: 370; Não: 124; abstenção: 1; Total: 495.",
+   "Data": "6/8/2019",
+   "Hora": "00:12",
+   "ObjVotacao": "PROPOSTA DE EMENDA À CONSTITUIÇÃO - SEGUNDO TURNO",
+   "codSessao": "16887",
+   "orientacaoBancada": [
+      {
+         "Sigla": "PpMdbPtb",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "PT",
+         "orientacao": "Não"
+      },
+      {
+         "Sigla": "PSL",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "PL",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "PSD",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "PSB",
+         "orientacao": "Não"
+      },
+      {
+         "Sigla": "PRB",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "PSDB",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "DEM",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "PDT",
+         "orientacao": "Não"
+      },
+      {
+         "Sigla": "Solidaried",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "Podemos",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "PSOL",
+         "orientacao": "Não"
+      },
+      {
+         "Sigla": "PROS",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "PCdoB",
+         "orientacao": "Não"
+      },
+      {
+         "Sigla": "PSC",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "CIDADANIA",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "NOVO",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "Avante",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "Patriota",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "PV",
+         "orientacao": "Liberado"
+      },
+      {
+         "Sigla": "Maioria",
+         "orientacao": "Sim"
+      },
+      {
+         "Sigla": "Minoria",
+         "orientacao": "Não"
+      },
+      {
+         "Sigla": "Oposição",
+         "orientacao": "Não"
+      },
+      {
+         "Sigla": "GOV.",
+         "orientacao": "Sim"
+      }
+   ],
+   "votos": [
+      {
+         "Nome": "Edio Lopes",
+         "ideCadastro": "141417",
+         "Partido": "PL",
+         "UF": "RR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Haroldo Cathedral",
+         "ideCadastro": "204465",
+         "Partido": "PSD",
+         "UF": "RR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Hiran Gonçalves",
+         "ideCadastro": "178959",
+         "Partido": "PP",
+         "UF": "RR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Jhonatan de Jesus",
+         "ideCadastro": "160531",
+         "Partido": "PRB",
+         "UF": "RR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Joenia Wapichana",
+         "ideCadastro": "204468",
+         "Partido": "REDE",
+         "UF": "RR",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Nicoletti",
+         "ideCadastro": "204479",
+         "Partido": "PSL",
+         "UF": "RR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Otaci Nascimento",
+         "ideCadastro": "204475",
+         "Partido": "Solidaried",
+         "UF": "RR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Shéridan",
+         "ideCadastro": "178961",
+         "Partido": "PSDB",
+         "UF": "RR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Acácio Favacho",
+         "ideCadastro": "204379",
+         "Partido": "PROS",
+         "UF": "AP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Aline Gurgel",
+         "ideCadastro": "204353",
+         "Partido": "PRB",
+         "UF": "AP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "André Abdon",
+         "ideCadastro": "178831",
+         "Partido": "PP",
+         "UF": "AP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Camilo Capiberibe",
+         "ideCadastro": "204352",
+         "Partido": "PSB",
+         "UF": "AP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Leda Sadala",
+         "ideCadastro": "204375",
+         "Partido": "Avante",
+         "UF": "AP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luiz Carlos",
+         "ideCadastro": "160645",
+         "Partido": "PSDB",
+         "UF": "AP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Professora Marcivania",
+         "ideCadastro": "160641",
+         "Partido": "PCdoB",
+         "UF": "AP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Vinicius Gurgel",
+         "ideCadastro": "160591",
+         "Partido": "PL",
+         "UF": "AP",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Airton Faleiro",
+         "ideCadastro": "204495",
+         "Partido": "PT",
+         "UF": "PA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Beto Faro",
+         "ideCadastro": "141335",
+         "Partido": "PT",
+         "UF": "PA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Cássio Andrade",
+         "ideCadastro": "204499",
+         "Partido": "PSB",
+         "UF": "PA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Celso Sabino",
+         "ideCadastro": "204496",
+         "Partido": "PSDB",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Cristiano Vale",
+         "ideCadastro": "135054",
+         "Partido": "PL",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Delegado Éder Mauro",
+         "ideCadastro": "178908",
+         "Partido": "PSD",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Edmilson Rodrigues",
+         "ideCadastro": "134812",
+         "Partido": "PSOL",
+         "UF": "PA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Eduardo Costa",
+         "ideCadastro": "204500",
+         "Partido": "PTB",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Elcione Barbalho",
+         "ideCadastro": "74075",
+         "Partido": "MDB",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Hélio Leite",
+         "ideCadastro": "178909",
+         "Partido": "DEM",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Joaquim Passarinho",
+         "ideCadastro": "178910",
+         "Partido": "PSD",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "José Priante",
+         "ideCadastro": "74079",
+         "Partido": "MDB",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Júnior Ferrari",
+         "ideCadastro": "204497",
+         "Partido": "PSD",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Nilson Pinto",
+         "ideCadastro": "74352",
+         "Partido": "PSDB",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Olival Marques",
+         "ideCadastro": "204498",
+         "Partido": "DEM",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paulo Bengtson",
+         "ideCadastro": "204538",
+         "Partido": "PTB",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Vavá Martins",
+         "ideCadastro": "204505",
+         "Partido": "PRB",
+         "UF": "PA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Capitão Alberto Neto",
+         "ideCadastro": "204572",
+         "Partido": "PRB",
+         "UF": "AM",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Átila Lins",
+         "ideCadastro": "74090",
+         "Partido": "PP",
+         "UF": "AM",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Bosco Saraiva",
+         "ideCadastro": "204551",
+         "Partido": "Solidaried",
+         "UF": "AM",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Delegado Pablo",
+         "ideCadastro": "204569",
+         "Partido": "PSL",
+         "UF": "AM",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "José Ricardo",
+         "ideCadastro": "204555",
+         "Partido": "PT",
+         "UF": "AM",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Marcelo Ramos",
+         "ideCadastro": "204556",
+         "Partido": "PL",
+         "UF": "AM",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Sidney Leite",
+         "ideCadastro": "204557",
+         "Partido": "PSD",
+         "UF": "AM",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Silas Câmara",
+         "ideCadastro": "74356",
+         "Partido": "PRB",
+         "UF": "AM",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Coronel Chrisóstomo",
+         "ideCadastro": "204378",
+         "Partido": "PSL",
+         "UF": "RO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Expedito Netto",
+         "ideCadastro": "178953",
+         "Partido": "PSD",
+         "UF": "RO",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Jaqueline Cassol",
+         "ideCadastro": "108338",
+         "Partido": "PP",
+         "UF": "RO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Léo Moraes",
+         "ideCadastro": "204359",
+         "Partido": "Podemos",
+         "UF": "RO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Lucio Mosquini",
+         "ideCadastro": "178954",
+         "Partido": "MDB",
+         "UF": "RO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Mariana Carvalho",
+         "ideCadastro": "178956",
+         "Partido": "PSDB",
+         "UF": "RO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Mauro Nazif",
+         "ideCadastro": "141508",
+         "Partido": "PSB",
+         "UF": "RO",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Silvia Cristina",
+         "ideCadastro": "204360",
+         "Partido": "PDT",
+         "UF": "RO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Alan Rick",
+         "ideCadastro": "178836",
+         "Partido": "DEM",
+         "UF": "AC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Flaviano Melo",
+         "ideCadastro": "141434",
+         "Partido": "MDB",
+         "UF": "AC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Jéssica Sales",
+         "ideCadastro": "178839",
+         "Partido": "MDB",
+         "UF": "AC",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Jesus Sérgio",
+         "ideCadastro": "204435",
+         "Partido": "PDT",
+         "UF": "AC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Manuel Marcos",
+         "ideCadastro": "204469",
+         "Partido": "PRB",
+         "UF": "AC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Mara Rocha",
+         "ideCadastro": "204471",
+         "Partido": "PSDB",
+         "UF": "AC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Perpétua Almeida",
+         "ideCadastro": "73943",
+         "Partido": "PCdoB",
+         "UF": "AC",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Dra. Vanda Milani",
+         "ideCadastro": "204434",
+         "Partido": "Solidaried",
+         "UF": "AC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Carlos Henrique Gaguim",
+         "ideCadastro": "178993",
+         "Partido": "DEM",
+         "UF": "TO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Célio Moura",
+         "ideCadastro": "204370",
+         "Partido": "PT",
+         "UF": "TO",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Dulce Miranda",
+         "ideCadastro": "178994",
+         "Partido": "MDB",
+         "UF": "TO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Eli Borges",
+         "ideCadastro": "204364",
+         "Partido": "Solidaried",
+         "UF": "TO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Osires Damaso",
+         "ideCadastro": "204363",
+         "Partido": "PSC",
+         "UF": "TO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Professora Dorinha Seabra Rezende",
+         "ideCadastro": "160639",
+         "Partido": "DEM",
+         "UF": "TO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Tiago Dimas",
+         "ideCadastro": "143084",
+         "Partido": "Solidaried",
+         "UF": "TO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Vicentinho Júnior",
+         "ideCadastro": "137070",
+         "Partido": "PL",
+         "UF": "TO",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Aluisio Mendes",
+         "ideCadastro": "178881",
+         "Partido": "Podemos",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "André Fufuca",
+         "ideCadastro": "178882",
+         "Partido": "PP",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Bira do Pindaré",
+         "ideCadastro": "204561",
+         "Partido": "PSB",
+         "UF": "MA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Cleber Verde",
+         "ideCadastro": "141408",
+         "Partido": "PRB",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Edilázio Júnior",
+         "ideCadastro": "204562",
+         "Partido": "PSD",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Eduardo Braide",
+         "ideCadastro": "204552",
+         "Partido": "PMN",
+         "UF": "MA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Gil Cutrim",
+         "ideCadastro": "204575",
+         "Partido": "PDT",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Hildo Rocha",
+         "ideCadastro": "178884",
+         "Partido": "MDB",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "João Marcelo Souza",
+         "ideCadastro": "112437",
+         "Partido": "MDB",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Josimar Maranhãozinho",
+         "ideCadastro": "204563",
+         "Partido": "PL",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Junior Lourenço",
+         "ideCadastro": "204574",
+         "Partido": "PL",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Juscelino Filho",
+         "ideCadastro": "178886",
+         "Partido": "DEM",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Márcio Jerry",
+         "ideCadastro": "81055",
+         "Partido": "PCdoB",
+         "UF": "MA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Marreca Filho",
+         "ideCadastro": "204566",
+         "Partido": "Patriota",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Pastor Gildenemyr",
+         "ideCadastro": "204570",
+         "Partido": "PL",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Pedro Lucas Fernandes",
+         "ideCadastro": "122974",
+         "Partido": "PTB",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Zé Carlos",
+         "ideCadastro": "178889",
+         "Partido": "PT",
+         "UF": "MA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "AJ Albuquerque",
+         "ideCadastro": "204549",
+         "Partido": "PP",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "André Figueiredo",
+         "ideCadastro": "133439",
+         "Partido": "PDT",
+         "UF": "CE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Capitão Wagner",
+         "ideCadastro": "204487",
+         "Partido": "PROS",
+         "UF": "CE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Célio Studart",
+         "ideCadastro": "204488",
+         "Partido": "PV",
+         "UF": "CE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Denis Bezerra",
+         "ideCadastro": "204542",
+         "Partido": "PSB",
+         "UF": "CE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Domingos Neto",
+         "ideCadastro": "143632",
+         "Partido": "PSD",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Dr. Jaziel",
+         "ideCadastro": "204481",
+         "Partido": "PL",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Eduardo Bismarck",
+         "ideCadastro": "204541",
+         "Partido": "PDT",
+         "UF": "CE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Genecias Noronha",
+         "ideCadastro": "160669",
+         "Partido": "Solidaried",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Heitor Freire",
+         "ideCadastro": "204548",
+         "Partido": "PSL",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Idilvan Alencar",
+         "ideCadastro": "204533",
+         "Partido": "PDT",
+         "UF": "CE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "José Airton Cirilo",
+         "ideCadastro": "141464",
+         "Partido": "PT",
+         "UF": "CE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "José Guimarães",
+         "ideCadastro": "141470",
+         "Partido": "PT",
+         "UF": "CE",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Júnior Mano",
+         "ideCadastro": "204550",
+         "Partido": "PL",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Leônidas Cristino",
+         "ideCadastro": "74299",
+         "Partido": "PDT",
+         "UF": "CE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Luizianne Lins",
+         "ideCadastro": "178866",
+         "Partido": "PT",
+         "UF": "CE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Moses Rodrigues",
+         "ideCadastro": "178997",
+         "Partido": "MDB",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Pedro Augusto Bezerra",
+         "ideCadastro": "90201",
+         "Partido": "PTB",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Robério Monteiro",
+         "ideCadastro": "204489",
+         "Partido": "PDT",
+         "UF": "CE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Roberto Pessoa",
+         "ideCadastro": "74305",
+         "Partido": "PSDB",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Vaidon Oliveira",
+         "ideCadastro": "195866",
+         "Partido": "PROS",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Assis Carvalho",
+         "ideCadastro": "159237",
+         "Partido": "PT",
+         "UF": "PI",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Átila Lira",
+         "ideCadastro": "74459",
+         "Partido": "PSB",
+         "UF": "PI",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Flávio Nogueira",
+         "ideCadastro": "191923",
+         "Partido": "PDT",
+         "UF": "PI",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Iracema Portella",
+         "ideCadastro": "67138",
+         "Partido": "PP",
+         "UF": "PI",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Júlio Cesar",
+         "ideCadastro": "74317",
+         "Partido": "PSD",
+         "UF": "PI",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Marcos Aurélio Sampaio",
+         "ideCadastro": "204431",
+         "Partido": "MDB",
+         "UF": "PI",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Margarete Coelho",
+         "ideCadastro": "204430",
+         "Partido": "PP",
+         "UF": "PI",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Marina Santos",
+         "ideCadastro": "204432",
+         "Partido": "Solidaried",
+         "UF": "PI",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rejane Dias",
+         "ideCadastro": "178925",
+         "Partido": "PT",
+         "UF": "PI",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Benes Leocádio",
+         "ideCadastro": "109429",
+         "Partido": "PRB",
+         "UF": "RN",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fábio Faria",
+         "ideCadastro": "141428",
+         "Partido": "PSD",
+         "UF": "RN",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Beto Rosado",
+         "ideCadastro": "178948",
+         "Partido": "PP",
+         "UF": "RN",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "General Girão",
+         "ideCadastro": "204473",
+         "Partido": "PSL",
+         "UF": "RN",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "João Maia",
+         "ideCadastro": "141459",
+         "Partido": "PL",
+         "UF": "RN",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Natália Bonavides",
+         "ideCadastro": "204453",
+         "Partido": "PT",
+         "UF": "RN",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Rafael Motta",
+         "ideCadastro": "178951",
+         "Partido": "PSB",
+         "UF": "RN",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Walter Alves",
+         "ideCadastro": "178952",
+         "Partido": "MDB",
+         "UF": "RN",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Aguinaldo Ribeiro",
+         "ideCadastro": "160527",
+         "Partido": "PP",
+         "UF": "PB",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Damião Feliciano",
+         "ideCadastro": "74467",
+         "Partido": "PDT",
+         "UF": "PB",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Edna Henrique",
+         "ideCadastro": "204421",
+         "Partido": "PSDB",
+         "UF": "PB",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Efraim Filho",
+         "ideCadastro": "141422",
+         "Partido": "DEM",
+         "UF": "PB",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Frei Anastacio Ribeiro",
+         "ideCadastro": "204393",
+         "Partido": "PT",
+         "UF": "PB",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Gervásio Maia",
+         "ideCadastro": "204394",
+         "Partido": "PSB",
+         "UF": "PB",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Hugo Motta",
+         "ideCadastro": "160674",
+         "Partido": "PRB",
+         "UF": "PB",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Julian Lemos",
+         "ideCadastro": "204420",
+         "Partido": "PSL",
+         "UF": "PB",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Pedro Cunha Lima",
+         "ideCadastro": "178912",
+         "Partido": "PSDB",
+         "UF": "PB",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Ruy Carneiro",
+         "ideCadastro": "160635",
+         "Partido": "PSDB",
+         "UF": "PB",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Wellington Roberto",
+         "ideCadastro": "74043",
+         "Partido": "PL",
+         "UF": "PB",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Wilson Santiago",
+         "ideCadastro": "74044",
+         "Partido": "PTB",
+         "UF": "PB",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "André de Paula",
+         "ideCadastro": "74471",
+         "Partido": "PSD",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "André Ferreira",
+         "ideCadastro": "204423",
+         "Partido": "PSC",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Augusto Coutinho",
+         "ideCadastro": "160665",
+         "Partido": "Solidaried",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Carlos Veras",
+         "ideCadastro": "204426",
+         "Partido": "PT",
+         "UF": "PE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Daniel Coelho",
+         "ideCadastro": "178916",
+         "Partido": "CIDADANIA",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Danilo Cabral",
+         "ideCadastro": "160528",
+         "Partido": "PSB",
+         "UF": "PE",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Eduardo da Fonte",
+         "ideCadastro": "141421",
+         "Partido": "PP",
+         "UF": "PE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Felipe Carreras",
+         "ideCadastro": "72442",
+         "Partido": "PSB",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fernando Coelho Filho",
+         "ideCadastro": "141431",
+         "Partido": "DEM",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fernando Monteiro",
+         "ideCadastro": "92699",
+         "Partido": "PP",
+         "UF": "PE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Fernando Rodolfo",
+         "ideCadastro": "204427",
+         "Partido": "PL",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Gonzaga Patriota",
+         "ideCadastro": "74419",
+         "Partido": "PSB",
+         "UF": "PE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "João H. Campos",
+         "ideCadastro": "204429",
+         "Partido": "PSB",
+         "UF": "PE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Luciano Bivar",
+         "ideCadastro": "74478",
+         "Partido": "PSL",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Marília Arraes",
+         "ideCadastro": "204428",
+         "Partido": "PT",
+         "UF": "PE",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Ossesio Silva",
+         "ideCadastro": "204422",
+         "Partido": "PRB",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Pastor Eurico",
+         "ideCadastro": "160642",
+         "Partido": "Patriota",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Raul Henry",
+         "ideCadastro": "141523",
+         "Partido": "MDB",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Renildo Calheiros",
+         "ideCadastro": "73801",
+         "Partido": "PCdoB",
+         "UF": "PE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Ricardo Teobaldo",
+         "ideCadastro": "178920",
+         "Partido": "Podemos",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Sebastião Oliveira",
+         "ideCadastro": "178921",
+         "Partido": "PL",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Silvio Costa Filho",
+         "ideCadastro": "204425",
+         "Partido": "PRB",
+         "UF": "PE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Tadeu Alencar",
+         "ideCadastro": "178922",
+         "Partido": "PSB",
+         "UF": "PE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Túlio Gadêlha",
+         "ideCadastro": "157130",
+         "Partido": "PDT",
+         "UF": "PE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Wolney Queiroz",
+         "ideCadastro": "74439",
+         "Partido": "PDT",
+         "UF": "PE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Arthur Lira",
+         "ideCadastro": "160541",
+         "Partido": "PP",
+         "UF": "AL",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Isnaldo Bulhões Jr.",
+         "ideCadastro": "204436",
+         "Partido": "MDB",
+         "UF": "AL",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Jhc",
+         "ideCadastro": "178842",
+         "Partido": "PSB",
+         "UF": "AL",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Marx Beltrão",
+         "ideCadastro": "178843",
+         "Partido": "PSD",
+         "UF": "AL",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Nivaldo Albuquerque",
+         "ideCadastro": "194260",
+         "Partido": "PTB",
+         "UF": "AL",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paulão",
+         "ideCadastro": "171617",
+         "Partido": "PT",
+         "UF": "AL",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Sergio Toledo",
+         "ideCadastro": "204438",
+         "Partido": "PL",
+         "UF": "AL",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Severino Pessoa",
+         "ideCadastro": "204437",
+         "Partido": "PRB",
+         "UF": "AL",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Tereza Nelma",
+         "ideCadastro": "204466",
+         "Partido": "PSDB",
+         "UF": "AL",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Bosco Costa",
+         "ideCadastro": "74052",
+         "Partido": "PL",
+         "UF": "SE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fábio Mitidieri",
+         "ideCadastro": "178969",
+         "Partido": "PSD",
+         "UF": "SE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fábio Henrique",
+         "ideCadastro": "68720",
+         "Partido": "PDT",
+         "UF": "SE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Fabio Reis",
+         "ideCadastro": "171623",
+         "Partido": "MDB",
+         "UF": "SE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Gustinho Ribeiro",
+         "ideCadastro": "204408",
+         "Partido": "Solidaried",
+         "UF": "SE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "João Daniel",
+         "ideCadastro": "178970",
+         "Partido": "PT",
+         "UF": "SE",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Laercio Oliveira",
+         "ideCadastro": "151208",
+         "Partido": "PP",
+         "UF": "SE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Valdevan Noventa",
+         "ideCadastro": "204385",
+         "Partido": "PSC",
+         "UF": "SE",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Abílio Santana",
+         "ideCadastro": "204554",
+         "Partido": "PL",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Adolfo Viana",
+         "ideCadastro": "204560",
+         "Partido": "PSDB",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Afonso Florence",
+         "ideCadastro": "160508",
+         "Partido": "PT",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Alex Santana",
+         "ideCadastro": "204571",
+         "Partido": "PDT",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Alice Portugal",
+         "ideCadastro": "74057",
+         "Partido": "PCdoB",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Antonio Brito",
+         "ideCadastro": "160553",
+         "Partido": "PSD",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Arthur Oliveira Maia",
+         "ideCadastro": "160600",
+         "Partido": "DEM",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Bacelar",
+         "ideCadastro": "69871",
+         "Partido": "Podemos",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Cacá Leão",
+         "ideCadastro": "93083",
+         "Partido": "PP",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Charles Fernandes",
+         "ideCadastro": "205476",
+         "Partido": "PSD",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Claudio Cajado",
+         "ideCadastro": "74537",
+         "Partido": "PP",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Daniel Almeida",
+         "ideCadastro": "74060",
+         "Partido": "PCdoB",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Elmar Nascimento",
+         "ideCadastro": "178854",
+         "Partido": "DEM",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Félix Mendonça Júnior",
+         "ideCadastro": "160666",
+         "Partido": "PDT",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Igor Kannário",
+         "ideCadastro": "204564",
+         "Partido": "PHS",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "João Carlos Bacelar",
+         "ideCadastro": "141458",
+         "Partido": "PL",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "João Roma",
+         "ideCadastro": "204576",
+         "Partido": "PRB",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Jorge Solla",
+         "ideCadastro": "178857",
+         "Partido": "PT",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "José Nunes",
+         "ideCadastro": "160619",
+         "Partido": "PSD",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "José Rocha",
+         "ideCadastro": "74554",
+         "Partido": "PL",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Leur Lomanto Júnior",
+         "ideCadastro": "92102",
+         "Partido": "DEM",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Lídice da Mata",
+         "ideCadastro": "139285",
+         "Partido": "PSB",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Marcelo Nilo",
+         "ideCadastro": "204558",
+         "Partido": "PSB",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Márcio Marinho",
+         "ideCadastro": "150418",
+         "Partido": "PRB",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Mário Negromonte Jr.",
+         "ideCadastro": "178858",
+         "Partido": "PP",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Nelson Pellegrino",
+         "ideCadastro": "74571",
+         "Partido": "PT",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Otto Alencar Filho",
+         "ideCadastro": "204573",
+         "Partido": "PSD",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Pastor Sargento Isidório",
+         "ideCadastro": "204553",
+         "Partido": "Avante",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Paulo Azi",
+         "ideCadastro": "178860",
+         "Partido": "DEM",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Professora Dayane Pimentel",
+         "ideCadastro": "204565",
+         "Partido": "PSL",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Raimundo Costa",
+         "ideCadastro": "204567",
+         "Partido": "PL",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Ronaldo Carletto",
+         "ideCadastro": "178861",
+         "Partido": "PP",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Tito",
+         "ideCadastro": "197438",
+         "Partido": "Avante",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Uldurico Junior",
+         "ideCadastro": "178863",
+         "Partido": "PROS",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Valmir Assunção",
+         "ideCadastro": "160610",
+         "Partido": "PT",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Waldenor Pereira",
+         "ideCadastro": "160569",
+         "Partido": "PT",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Zé Neto",
+         "ideCadastro": "204559",
+         "Partido": "PT",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Aécio Neves",
+         "ideCadastro": "74646",
+         "Partido": "PSDB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Alê Silva",
+         "ideCadastro": "204545",
+         "Partido": "PSL",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "André Janones",
+         "ideCadastro": "204515",
+         "Partido": "Avante",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Áurea Carolina",
+         "ideCadastro": "204509",
+         "Partido": "PSOL",
+         "UF": "MG",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Bilac Pinto",
+         "ideCadastro": "141513",
+         "Partido": "DEM",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Cabo Junio Amaral",
+         "ideCadastro": "204520",
+         "Partido": "PSL",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Charlles Evangelista",
+         "ideCadastro": "204490",
+         "Partido": "PSL",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Delegado Marcelo Freitas",
+         "ideCadastro": "204512",
+         "Partido": "PSL",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Diego Andrade",
+         "ideCadastro": "160588",
+         "Partido": "PSD",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Dimas Fabiano",
+         "ideCadastro": "160599",
+         "Partido": "PP",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Domingos Sávio",
+         "ideCadastro": "160758",
+         "Partido": "PSDB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Dr. Frederico",
+         "ideCadastro": "204518",
+         "Partido": "Patriota",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Eduardo Barbosa",
+         "ideCadastro": "74655",
+         "Partido": "PSDB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Emidinho Madeira",
+         "ideCadastro": "161550",
+         "Partido": "PSB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Eros Biondini",
+         "ideCadastro": "160640",
+         "Partido": "PROS",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Euclydes Pettersen",
+         "ideCadastro": "204482",
+         "Partido": "PSC",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fábio Ramalho",
+         "ideCadastro": "141427",
+         "Partido": "MDB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Franco Cartafina",
+         "ideCadastro": "204510",
+         "Partido": "PP",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fred Costa",
+         "ideCadastro": "204494",
+         "Partido": "Patriota",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Gilberto Abramo",
+         "ideCadastro": "204491",
+         "Partido": "PRB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Greyce Elias",
+         "ideCadastro": "198197",
+         "Partido": "Avante",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Hercílio Coelho Diniz",
+         "ideCadastro": "204539",
+         "Partido": "MDB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Igor Timo",
+         "ideCadastro": "204508",
+         "Partido": "Podemos",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Júlio Delgado",
+         "ideCadastro": "73586",
+         "Partido": "PSB",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Lafayette de Andrada",
+         "ideCadastro": "98057",
+         "Partido": "PRB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Léo Motta",
+         "ideCadastro": "204547",
+         "Partido": "PSL",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Leonardo Monteiro",
+         "ideCadastro": "74156",
+         "Partido": "PT",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Lincoln Portela",
+         "ideCadastro": "74585",
+         "Partido": "PL",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Lucas Gonzalez",
+         "ideCadastro": "204523",
+         "Partido": "NOVO",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luis Tibé",
+         "ideCadastro": "160510",
+         "Partido": "Avante",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Marcelo Álvaro Antônio",
+         "ideCadastro": "179000",
+         "Partido": "PSL",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Marcelo Aro",
+         "ideCadastro": "146788",
+         "Partido": "PP",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Margarida Salomão",
+         "ideCadastro": "171619",
+         "Partido": "PT",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Mário Heringer",
+         "ideCadastro": "74158",
+         "Partido": "PDT",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Mauro Lopes",
+         "ideCadastro": "74749",
+         "Partido": "MDB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Misael Varella",
+         "ideCadastro": "178895",
+         "Partido": "PSD",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Newton Cardoso Jr",
+         "ideCadastro": "178896",
+         "Partido": "MDB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Odair Cunha",
+         "ideCadastro": "74159",
+         "Partido": "PT",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Padre João",
+         "ideCadastro": "160556",
+         "Partido": "PT",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Patrus Ananias",
+         "ideCadastro": "74160",
+         "Partido": "PT",
+         "UF": "MG",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Paulo Abi-Ackel",
+         "ideCadastro": "141516",
+         "Partido": "PSDB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paulo Guedes",
+         "ideCadastro": "204492",
+         "Partido": "PT",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Pinheirinho",
+         "ideCadastro": "204524",
+         "Partido": "PP",
+         "UF": "MG",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Reginaldo Lopes",
+         "ideCadastro": "74161",
+         "Partido": "PT",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Rodrigo de Castro",
+         "ideCadastro": "141531",
+         "Partido": "PSDB",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rogério Correia",
+         "ideCadastro": "204480",
+         "Partido": "PT",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Stefano Aguiar",
+         "ideCadastro": "92776",
+         "Partido": "PSD",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Subtenente Gonzaga",
+         "ideCadastro": "177282",
+         "Partido": "PDT",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Tiago Mitraud",
+         "ideCadastro": "204519",
+         "Partido": "NOVO",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Vilson da Fetaemg",
+         "ideCadastro": "204483",
+         "Partido": "PSB",
+         "UF": "MG",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Weliton Prado",
+         "ideCadastro": "160518",
+         "Partido": "PROS",
+         "UF": "MG",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Zé Silva",
+         "ideCadastro": "160632",
+         "Partido": "Solidaried",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Zé Vitor",
+         "ideCadastro": "204517",
+         "Partido": "PL",
+         "UF": "MG",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Amaro Neto",
+         "ideCadastro": "204356",
+         "Partido": "PRB",
+         "UF": "ES",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Da Vitória",
+         "ideCadastro": "204355",
+         "Partido": "CIDADANIA",
+         "UF": "ES",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Dra. Soraya Manato",
+         "ideCadastro": "81297",
+         "Partido": "PSL",
+         "UF": "ES",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Evair Vieira de Melo",
+         "ideCadastro": "178871",
+         "Partido": "PP",
+         "UF": "ES",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Felipe Rigoni",
+         "ideCadastro": "204371",
+         "Partido": "PSB",
+         "UF": "ES",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Helder Salomão",
+         "ideCadastro": "178873",
+         "Partido": "PT",
+         "UF": "ES",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Lauriete",
+         "ideCadastro": "160534",
+         "Partido": "PL",
+         "UF": "ES",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Norma Ayub",
+         "ideCadastro": "66179",
+         "Partido": "DEM",
+         "UF": "ES",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Sergio Vidigal",
+         "ideCadastro": "178874",
+         "Partido": "PDT",
+         "UF": "ES",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Alessandro Molon",
+         "ideCadastro": "160511",
+         "Partido": "PSB",
+         "UF": "RJ",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Alexandre Serfiotis",
+         "ideCadastro": "178833",
+         "Partido": "PSD",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Altineu Côrtes",
+         "ideCadastro": "178937",
+         "Partido": "PL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Aureo Ribeiro",
+         "ideCadastro": "160512",
+         "Partido": "Solidaried",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Benedita da Silva",
+         "ideCadastro": "73701",
+         "Partido": "PT",
+         "UF": "RJ",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Carlos Jordy",
+         "ideCadastro": "204460",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Chico D`Angelo",
+         "ideCadastro": "141439",
+         "Partido": "PDT",
+         "UF": "RJ",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Chiquinho Brazão",
+         "ideCadastro": "204476",
+         "Partido": "Avante",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Chris Tonietto",
+         "ideCadastro": "204462",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Christino Aureo",
+         "ideCadastro": "204440",
+         "Partido": "PP",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Clarissa Garotinho",
+         "ideCadastro": "178939",
+         "Partido": "PROS",
+         "UF": "RJ",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Daniel Silveira",
+         "ideCadastro": "204454",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Daniela do Waguinho",
+         "ideCadastro": "204459",
+         "Partido": "MDB",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Delegado Antônio Furtado",
+         "ideCadastro": "204451",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Dr. Luiz Antonio Teixeira Jr.",
+         "ideCadastro": "204450",
+         "Partido": "PP",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Felício Laterça",
+         "ideCadastro": "204477",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Flordelis",
+         "ideCadastro": "204447",
+         "Partido": "PSD",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Gelson Azevedo",
+         "ideCadastro": "115746",
+         "Partido": "PL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Glauber Braga",
+         "ideCadastro": "152605",
+         "Partido": "PSOL",
+         "UF": "RJ",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Gutemberg Reis",
+         "ideCadastro": "204456",
+         "Partido": "MDB",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Helio Lopes",
+         "ideCadastro": "204444",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Hugo Leal",
+         "ideCadastro": "141450",
+         "Partido": "PSD",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Jandira Feghali",
+         "ideCadastro": "74848",
+         "Partido": "PCdoB",
+         "UF": "RJ",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Juninho do Pneu",
+         "ideCadastro": "204457",
+         "Partido": "DEM",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Lourival Gomes",
+         "ideCadastro": "196358",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luiz Antônio Corrêa",
+         "ideCadastro": "204448",
+         "Partido": "S.Part.",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luiz Lima",
+         "ideCadastro": "204455",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Major Fabiana",
+         "ideCadastro": "204458",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Marcelo Calero",
+         "ideCadastro": "204433",
+         "Partido": "CIDADANIA",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Marcelo Freixo",
+         "ideCadastro": "76874",
+         "Partido": "PSOL",
+         "UF": "RJ",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Márcio Labre",
+         "ideCadastro": "204452",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Otoni de Paula",
+         "ideCadastro": "204441",
+         "Partido": "PSC",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paulo Ganime",
+         "ideCadastro": "204461",
+         "Partido": "NOVO",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paulo Ramos",
+         "ideCadastro": "133968",
+         "Partido": "PDT",
+         "UF": "RJ",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Pedro Paulo",
+         "ideCadastro": "122158",
+         "Partido": "DEM",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Professor Joziel",
+         "ideCadastro": "204446",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rodrigo Maia",
+         "ideCadastro": "74693",
+         "Partido": "DEM",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rosangela Gomes",
+         "ideCadastro": "178945",
+         "Partido": "PRB",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Gurgel",
+         "ideCadastro": "204442",
+         "Partido": "PSL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Soraya Santos",
+         "ideCadastro": "178946",
+         "Partido": "PL",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Sóstenes Cavalcante",
+         "ideCadastro": "178947",
+         "Partido": "DEM",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Talíria Petrone",
+         "ideCadastro": "204464",
+         "Partido": "PSOL",
+         "UF": "RJ",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Vinicius Farah",
+         "ideCadastro": "204478",
+         "Partido": "MDB",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Wladimir Garotinho",
+         "ideCadastro": "204463",
+         "Partido": "PSD",
+         "UF": "RJ",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Abou Anni",
+         "ideCadastro": "204521",
+         "Partido": "PSL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Adriana Ventura",
+         "ideCadastro": "204528",
+         "Partido": "NOVO",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Alencar Santana Braga",
+         "ideCadastro": "204501",
+         "Partido": "PT",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Alex Manente",
+         "ideCadastro": "178972",
+         "Partido": "CIDADANIA",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Alexandre Frota",
+         "ideCadastro": "204544",
+         "Partido": "PSL",
+         "UF": "SP",
+         "Voto": "Abstenção"
+      },
+      {
+         "Nome": "Alexandre Leite",
+         "ideCadastro": "160545",
+         "Partido": "DEM",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Alexandre Padilha",
+         "ideCadastro": "204503",
+         "Partido": "PT",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Alexis Fonteyne",
+         "ideCadastro": "204516",
+         "Partido": "NOVO",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Arlindo Chinaglia",
+         "ideCadastro": "73433",
+         "Partido": "PT",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Arnaldo Jardim",
+         "ideCadastro": "141391",
+         "Partido": "CIDADANIA",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Baleia Rossi",
+         "ideCadastro": "178975",
+         "Partido": "MDB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Bruna Furlan",
+         "ideCadastro": "160589",
+         "Partido": "PSDB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Capitão Augusto",
+         "ideCadastro": "178829",
+         "Partido": "PL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Guilherme Derrite",
+         "ideCadastro": "204531",
+         "Partido": "PP",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Carla Zambelli",
+         "ideCadastro": "204507",
+         "Partido": "PSL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Carlos Sampaio",
+         "ideCadastro": "74262",
+         "Partido": "PSDB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Carlos Zarattini",
+         "ideCadastro": "141398",
+         "Partido": "PT",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Celso Russomanno",
+         "ideCadastro": "73441",
+         "Partido": "PRB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Cezinha de Madureira",
+         "ideCadastro": "204504",
+         "Partido": "PSD",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Coronel Tadeu",
+         "ideCadastro": "204514",
+         "Partido": "PSL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "David Soares",
+         "ideCadastro": "204511",
+         "Partido": "DEM",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Eduardo Bolsonaro",
+         "ideCadastro": "92346",
+         "Partido": "PSL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Eduardo Cury",
+         "ideCadastro": "178977",
+         "Partido": "PSDB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Eli Corrêa Filho",
+         "ideCadastro": "160532",
+         "Partido": "DEM",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Enrico Misasi",
+         "ideCadastro": "204537",
+         "Partido": "PV",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fausto Pinato",
+         "ideCadastro": "66828",
+         "Partido": "PP",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "General Peternelli",
+         "ideCadastro": "204484",
+         "Partido": "PSL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Geninho Zuliani",
+         "ideCadastro": "204527",
+         "Partido": "DEM",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Gilberto Nascimento",
+         "ideCadastro": "74270",
+         "Partido": "PSC",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Guiga Peixoto",
+         "ideCadastro": "204513",
+         "Partido": "PSL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Guilherme Mussi",
+         "ideCadastro": "160667",
+         "Partido": "PP",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Herculano Passos",
+         "ideCadastro": "178981",
+         "Partido": "MDB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Ivan Valente",
+         "ideCadastro": "73531",
+         "Partido": "PSOL",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Jefferson Campos",
+         "ideCadastro": "74273",
+         "Partido": "PSB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Joice Hasselmann",
+         "ideCadastro": "204546",
+         "Partido": "PSL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Júnior Bozzella",
+         "ideCadastro": "204502",
+         "Partido": "PSL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Kim Kataguiri",
+         "ideCadastro": "204536",
+         "Partido": "DEM",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luiz Carlos Motta",
+         "ideCadastro": "204485",
+         "Partido": "PL",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Luiz Philippe de Orleans e Bragança",
+         "ideCadastro": "204526",
+         "Partido": "PSL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luiza Erundina",
+         "ideCadastro": "74784",
+         "Partido": "PSOL",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Marcio Alvino",
+         "ideCadastro": "178983",
+         "Partido": "PL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Marco Bertaiolli",
+         "ideCadastro": "204522",
+         "Partido": "PSD",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Marcos Pereira",
+         "ideCadastro": "204506",
+         "Partido": "PRB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Maria Rosas",
+         "ideCadastro": "204540",
+         "Partido": "PRB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Miguel Lombardi",
+         "ideCadastro": "178985",
+         "Partido": "PL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Milton Vieira",
+         "ideCadastro": "154178",
+         "Partido": "PRB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Nilto Tatto",
+         "ideCadastro": "178986",
+         "Partido": "PT",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Orlando Silva",
+         "ideCadastro": "178987",
+         "Partido": "PCdoB",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Pr. Marco Feliciano",
+         "ideCadastro": "160601",
+         "Partido": "Podemos",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paulo Freire Costa",
+         "ideCadastro": "160558",
+         "Partido": "PL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paulo Pereira da Silva",
+         "ideCadastro": "141518",
+         "Partido": "Solidaried",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Paulo Teixeira",
+         "ideCadastro": "141488",
+         "Partido": "PT",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Policial Katia Sastre",
+         "ideCadastro": "204529",
+         "Partido": "PL",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luiz Flávio Gomes",
+         "ideCadastro": "204543",
+         "Partido": "PSB",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Renata Abreu",
+         "ideCadastro": "178989",
+         "Partido": "Podemos",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Ricardo Izar",
+         "ideCadastro": "160655",
+         "Partido": "PP",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Roberto Alves",
+         "ideCadastro": "152610",
+         "Partido": "PRB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Roberto de Lucena",
+         "ideCadastro": "160653",
+         "Partido": "Podemos",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rodrigo Agostinho",
+         "ideCadastro": "204530",
+         "Partido": "PSB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rosana Valle",
+         "ideCadastro": "204525",
+         "Partido": "PSB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rui Falcão",
+         "ideCadastro": "73604",
+         "Partido": "PT",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Sâmia Bomfim",
+         "ideCadastro": "204535",
+         "Partido": "PSOL",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Samuel Moreira",
+         "ideCadastro": "178990",
+         "Partido": "PSDB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Tabata Amaral",
+         "ideCadastro": "204534",
+         "Partido": "PDT",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Tiririca",
+         "ideCadastro": "160976",
+         "Partido": "PL",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Vanderlei Macris",
+         "ideCadastro": "141553",
+         "Partido": "PSDB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Vicentinho",
+         "ideCadastro": "74283",
+         "Partido": "PT",
+         "UF": "SP",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Vinicius Carvalho",
+         "ideCadastro": "141555",
+         "Partido": "PRB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Vinicius Poit",
+         "ideCadastro": "204532",
+         "Partido": "NOVO",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Vitor Lippi",
+         "ideCadastro": "178992",
+         "Partido": "PSDB",
+         "UF": "SP",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Carlos Bezerra",
+         "ideCadastro": "141401",
+         "Partido": "MDB",
+         "UF": "MT",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Dr. Leonardo",
+         "ideCadastro": "204439",
+         "Partido": "Solidaried",
+         "UF": "MT",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Emanuel Pinheiro Neto",
+         "ideCadastro": "198783",
+         "Partido": "PTB",
+         "UF": "MT",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "José Medeiros",
+         "ideCadastro": "204472",
+         "Partido": "Podemos",
+         "UF": "MT",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Juarez Costa",
+         "ideCadastro": "204474",
+         "Partido": "MDB",
+         "UF": "MT",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Nelson Barbudo",
+         "ideCadastro": "204449",
+         "Partido": "PSL",
+         "UF": "MT",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Neri Geller",
+         "ideCadastro": "146307",
+         "Partido": "PP",
+         "UF": "MT",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Professora Rosa Neide",
+         "ideCadastro": "204467",
+         "Partido": "PT",
+         "UF": "MT",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Bia Kicis",
+         "ideCadastro": "204374",
+         "Partido": "PSL",
+         "UF": "DF",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Celina Leão",
+         "ideCadastro": "204380",
+         "Partido": "PP",
+         "UF": "DF",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Erika Kokay",
+         "ideCadastro": "160575",
+         "Partido": "PT",
+         "UF": "DF",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Flávia Arruda",
+         "ideCadastro": "204354",
+         "Partido": "PL",
+         "UF": "DF",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Julio Cesar Ribeiro",
+         "ideCadastro": "204372",
+         "Partido": "PRB",
+         "UF": "DF",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luis Miranda",
+         "ideCadastro": "204381",
+         "Partido": "DEM",
+         "UF": "DF",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paula Belmonte",
+         "ideCadastro": "204377",
+         "Partido": "CIDADANIA",
+         "UF": "DF",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Professor Israel Batista",
+         "ideCadastro": "204383",
+         "Partido": "PV",
+         "UF": "DF",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Adriano do Baldy",
+         "ideCadastro": "121948",
+         "Partido": "PP",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Alcides Rodrigues",
+         "ideCadastro": "204413",
+         "Partido": "Patriota",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Célio Silveira",
+         "ideCadastro": "178876",
+         "Partido": "PSDB",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Delegado Waldir",
+         "ideCadastro": "164359",
+         "Partido": "PSL",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Dr. Zacharias Calil",
+         "ideCadastro": "204412",
+         "Partido": "DEM",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Elias Vaz",
+         "ideCadastro": "204389",
+         "Partido": "PSB",
+         "UF": "GO",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Flávia Morais",
+         "ideCadastro": "160598",
+         "Partido": "PDT",
+         "UF": "GO",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Francisco Jr.",
+         "ideCadastro": "204392",
+         "Partido": "PSD",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Glaustin Fokus",
+         "ideCadastro": "204419",
+         "Partido": "PSC",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "João Campos",
+         "ideCadastro": "74366",
+         "Partido": "PRB",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Jose Mario Schreiner",
+         "ideCadastro": "204386",
+         "Partido": "DEM",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "José Nelto",
+         "ideCadastro": "204391",
+         "Partido": "Podemos",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Lucas Vergilio",
+         "ideCadastro": "178879",
+         "Partido": "Solidaried",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Magda Mofatto",
+         "ideCadastro": "166402",
+         "Partido": "PL",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Major Vitor Hugo",
+         "ideCadastro": "179587",
+         "Partido": "PSL",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Professor Alcides",
+         "ideCadastro": "204390",
+         "Partido": "PP",
+         "UF": "GO",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rubens Otoni",
+         "ideCadastro": "74371",
+         "Partido": "PT",
+         "UF": "GO",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Beto Pereira",
+         "ideCadastro": "204358",
+         "Partido": "PSDB",
+         "UF": "MS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Dagoberto Nogueira",
+         "ideCadastro": "141411",
+         "Partido": "PDT",
+         "UF": "MS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Tereza Cristina",
+         "ideCadastro": "178901",
+         "Partido": "DEM",
+         "UF": "MS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Dr. Luiz Ovando",
+         "ideCadastro": "204351",
+         "Partido": "PSL",
+         "UF": "MS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fábio Trad",
+         "ideCadastro": "160587",
+         "Partido": "PSD",
+         "UF": "MS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Loester Trutis",
+         "ideCadastro": "204382",
+         "Partido": "PSL",
+         "UF": "MS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rose Modesto",
+         "ideCadastro": "204357",
+         "Partido": "PSDB",
+         "UF": "MS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Vander Loubet",
+         "ideCadastro": "74376",
+         "Partido": "PT",
+         "UF": "MS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Aliel Machado",
+         "ideCadastro": "178927",
+         "Partido": "PSB",
+         "UF": "PR",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Aline Sleutjes",
+         "ideCadastro": "204400",
+         "Partido": "PSL",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Aroldo Martins",
+         "ideCadastro": "204414",
+         "Partido": "PRB",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Boca Aberta",
+         "ideCadastro": "204397",
+         "Partido": "PROS",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Christiane de Souza Yared",
+         "ideCadastro": "178928",
+         "Partido": "PL",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Diego Garcia",
+         "ideCadastro": "178929",
+         "Partido": "Podemos",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Enio Verri",
+         "ideCadastro": "132504",
+         "Partido": "PT",
+         "UF": "PR",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Felipe Francischini",
+         "ideCadastro": "204398",
+         "Partido": "PSL",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Filipe Barros",
+         "ideCadastro": "204411",
+         "Partido": "PSL",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Giacobo",
+         "ideCadastro": "74383",
+         "Partido": "PL",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Gleisi Hoffmann",
+         "ideCadastro": "107283",
+         "Partido": "PT",
+         "UF": "PR",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Gustavo Fruet",
+         "ideCadastro": "73460",
+         "Partido": "PDT",
+         "UF": "PR",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Hermes Parcianello",
+         "ideCadastro": "73772",
+         "Partido": "MDB",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Leandre",
+         "ideCadastro": "178832",
+         "Partido": "PV",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luciano Ducci",
+         "ideCadastro": "178931",
+         "Partido": "PSB",
+         "UF": "PR",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Luisa Canziani",
+         "ideCadastro": "204410",
+         "Partido": "PTB",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luiz Nishimori",
+         "ideCadastro": "162332",
+         "Partido": "PL",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Vermelho",
+         "ideCadastro": "204396",
+         "Partido": "PSD",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paulo Eduardo Martins",
+         "ideCadastro": "193726",
+         "Partido": "PSC",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Pedro Lupion",
+         "ideCadastro": "204395",
+         "Partido": "DEM",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Luizão Goulart",
+         "ideCadastro": "204418",
+         "Partido": "PRB",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Ricardo Barros",
+         "ideCadastro": "73788",
+         "Partido": "PP",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rubens Bueno",
+         "ideCadastro": "73466",
+         "Partido": "CIDADANIA",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Sargento Fahur",
+         "ideCadastro": "204387",
+         "Partido": "PSD",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Schiavinato",
+         "ideCadastro": "204399",
+         "Partido": "PP",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Sergio Souza",
+         "ideCadastro": "178933",
+         "Partido": "MDB",
+         "UF": "PR",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Toninho Wandscheer",
+         "ideCadastro": "178934",
+         "Partido": "PROS",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Zeca Dirceu",
+         "ideCadastro": "160592",
+         "Partido": "PT",
+         "UF": "PR",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Angela Amin",
+         "ideCadastro": "73696",
+         "Partido": "PP",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Carlos Chiodini",
+         "ideCadastro": "204361",
+         "Partido": "MDB",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Carmen Zanotto",
+         "ideCadastro": "164360",
+         "Partido": "CIDADANIA",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Caroline de Toni",
+         "ideCadastro": "204369",
+         "Partido": "PSL",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Celso Maldaner",
+         "ideCadastro": "141405",
+         "Partido": "MDB",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Coronel Armando",
+         "ideCadastro": "204376",
+         "Partido": "PSL",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Daniel Freitas",
+         "ideCadastro": "204367",
+         "Partido": "PSL",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Darci de Matos",
+         "ideCadastro": "116379",
+         "Partido": "PSD",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fabio Schiochet",
+         "ideCadastro": "204368",
+         "Partido": "PSL",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Geovania de Sá",
+         "ideCadastro": "178966",
+         "Partido": "PSDB",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Gilson Marques",
+         "ideCadastro": "204365",
+         "Partido": "NOVO",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Hélio Costa",
+         "ideCadastro": "204373",
+         "Partido": "PRB",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Pedro Uczai",
+         "ideCadastro": "160604",
+         "Partido": "PT",
+         "UF": "SC",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Ricardo Guidi",
+         "ideCadastro": "204362",
+         "Partido": "PSD",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rodrigo Coelho",
+         "ideCadastro": "204366",
+         "Partido": "PSB",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Rogério Peninha Mendonça",
+         "ideCadastro": "160651",
+         "Partido": "MDB",
+         "UF": "SC",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Afonso Hamm",
+         "ideCadastro": "136811",
+         "Partido": "PP",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Afonso Motta",
+         "ideCadastro": "178835",
+         "Partido": "PDT",
+         "UF": "RS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Alceu Moreira",
+         "ideCadastro": "160559",
+         "Partido": "MDB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Bibo Nunes",
+         "ideCadastro": "204388",
+         "Partido": "PSL",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Bohn Gass",
+         "ideCadastro": "160538",
+         "Partido": "PT",
+         "UF": "RS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Carlos Gomes",
+         "ideCadastro": "178962",
+         "Partido": "PRB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Daniel Trzeciak",
+         "ideCadastro": "204409",
+         "Partido": "PSDB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Danrlei de Deus Hinterholz",
+         "ideCadastro": "160552",
+         "Partido": "PSD",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Fernanda Melchionna",
+         "ideCadastro": "204407",
+         "Partido": "PSOL",
+         "UF": "RS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Giovani Cherini",
+         "ideCadastro": "160673",
+         "Partido": "PL",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Giovani Feltes",
+         "ideCadastro": "178996",
+         "Partido": "MDB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Heitor Schuch",
+         "ideCadastro": "178964",
+         "Partido": "PSB",
+         "UF": "RS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Henrique Fontana",
+         "ideCadastro": "73482",
+         "Partido": "PT",
+         "UF": "RS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Jerônimo Goergen",
+         "ideCadastro": "160570",
+         "Partido": "PP",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Liziane Bayer",
+         "ideCadastro": "204405",
+         "Partido": "PSB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Lucas Redecker",
+         "ideCadastro": "204404",
+         "Partido": "PSDB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Marcel van Hattem",
+         "ideCadastro": "156190",
+         "Partido": "NOVO",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Marcelo Moraes",
+         "ideCadastro": "133810",
+         "Partido": "PTB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Márcio Biolchi",
+         "ideCadastro": "179001",
+         "Partido": "MDB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Marcon",
+         "ideCadastro": "160535",
+         "Partido": "PT",
+         "UF": "RS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Maria do Rosário",
+         "ideCadastro": "74398",
+         "Partido": "PT",
+         "UF": "RS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Marlon Santos",
+         "ideCadastro": "204403",
+         "Partido": "PDT",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Maurício Dziedricki",
+         "ideCadastro": "75431",
+         "Partido": "PTB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Nereu Crispim",
+         "ideCadastro": "204415",
+         "Partido": "PSL",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Onyx Lorenzoni",
+         "ideCadastro": "74399",
+         "Partido": "DEM",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paulo Pimenta",
+         "ideCadastro": "74400",
+         "Partido": "PT",
+         "UF": "RS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Pedro Westphalen",
+         "ideCadastro": "204406",
+         "Partido": "PP",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Pompeo de Mattos",
+         "ideCadastro": "73486",
+         "Partido": "PDT",
+         "UF": "RS",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Sanderson",
+         "ideCadastro": "204416",
+         "Partido": "PSL",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Jorge Braz",
+         "ideCadastro": "205550",
+         "Partido": "PRB",
+         "UF": "RJ",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "David Miranda",
+         "ideCadastro": "205548",
+         "Partido": "PSOL",
+         "UF": "RJ",
+         "Voto": "-"
+      },
+      {
+         "Nome": "Evandro Roman",
+         "ideCadastro": "178930",
+         "Partido": "PSD",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Reinhold Stephanes Junior",
+         "ideCadastro": "205865",
+         "Partido": "PSD",
+         "UF": "PR",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Darcísio Perondi",
+         "ideCadastro": "73891",
+         "Partido": "MDB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Ted Conti",
+         "ideCadastro": "206231",
+         "Partido": "PSB",
+         "UF": "ES",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Santini",
+         "ideCadastro": "90842",
+         "Partido": "PTB",
+         "UF": "RS",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Joseildo Ramos",
+         "ideCadastro": "209189",
+         "Partido": "PT",
+         "UF": "BA",
+         "Voto": "Não"
+      },
+      {
+         "Nome": "Paulo Magalhães",
+         "ideCadastro": "74574",
+         "Partido": "PSD",
+         "UF": "BA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Gastão Vieira",
+         "ideCadastro": "74200",
+         "Partido": "PROS",
+         "UF": "MA",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Aníbal Gomes",
+         "ideCadastro": "74212",
+         "Partido": "DEM",
+         "UF": "CE",
+         "Voto": "Sim"
+      },
+      {
+         "Nome": "Paes Landim",
+         "ideCadastro": "74319",
+         "Partido": "PTB",
+         "UF": "PI",
+         "Voto": "Sim"
+      }
+   ]
+}
